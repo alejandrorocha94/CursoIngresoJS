@@ -2,6 +2,11 @@
 Debemos lograr tomar un dato por 'PROMPT' 
 y lo muestro por 'ID' al presionar el botón 'mostrar'
 */
+/*
+Alumno: Rocha Alejandro 
+Division: J
+Ejercicio 04
+*/
 function mostrar()
 {
 	let nombre ;//guardo espacio de memoria en la variable nombre

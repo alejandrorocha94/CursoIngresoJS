@@ -2,7 +2,11 @@
 Debemos lograr tomar un dato por 'ID'
 y luego mostrarlo por 'Alert' al presionar el botón  'mostrar'*/
 
-
+/*
+Alumno: Rocha Alejandro 
+Division: J
+Ejercicio 03
+*/
 function mostrar() //inicializa la funcion
 {
 	let nombreIngresado; //inicio la variable 
