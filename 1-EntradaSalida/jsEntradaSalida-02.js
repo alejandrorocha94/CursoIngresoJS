@@ -7,6 +7,6 @@ function mostrar() // inicializo la funcion mostrar
 
 	mensaje=prompt("ingrese dato"); //ingreso el dato
 
-	alert(meensaje);//lo muestro por pantalla 
+	alert(mensaje);//lo muestro por pantalla 
 }
 
